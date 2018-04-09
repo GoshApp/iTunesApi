@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="large_text">56sp</dimen>
+    <dimen name="padding_for_large_txt">20dp</dimen>
+    <dimen name="average_text_dem">18sp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="padding_for_txt">10dp</dimen>
+    <dimen name="padding_for_img">5dp</dimen>
+</resources>
